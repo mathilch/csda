@@ -1,0 +1,69 @@
+{
+ "files": 910,
+ "programs": 43,
+ "copies_read": 102,
+ "copies_unpacked": 1,
+ "copies_packed_and_cut": 808,
+ "programs_read": 29,
+ "programs_not_read": [
+  "P002",
+  "P003",
+  "P004",
+  "P006",
+  "P009",
+  "P013",
+  "P016",
+  "P024",
+  "P031",
+  "P032",
+  "P035",
+  "P036",
+  "P039",
+  "P041"
+ ],
+ "ioc_values_by_kind_program": {
+  "domain": 84,
+  "ipv4": 44,
+  "path": 252,
+  "url": 71,
+  "keyword": 33,
+  "monero wallet": 2,
+  "discord webhook": 1
+ },
+ "ioc_values_by_kind_fragment": {
+  "ssh key": 1
+ },
+ "ioc_values_by_kind_other_file": {
+  "ssh key": 2,
+  "path": 47,
+  "domain": 7,
+  "ipv4": 7,
+  "keyword": 9,
+  "url": 2
+ },
+ "ips_also_in_telemetry": [
+  [
+   "P014",
+   "141.94.96.144",
+   "C05"
+  ],
+  [
+   "P014",
+   "141.94.96.195",
+   "C05"
+  ],
+  [
+   "P014",
+   "141.94.96.71",
+   "C05"
+  ]
+ ],
+ "ssh_keys_also_in_commands": [
+  [
+   "P036",
+   "other file",
+   "AAAAB3NzaC1yc2EAAAABJQAA\u2026",
+   "C03"
+  ]
+ ]
+}

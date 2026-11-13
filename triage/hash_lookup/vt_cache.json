@@ -1,0 +1,99 @@
+{
+ "002f30524cc7f5675801e58342fd082929b1f8aee64083976f8bf0ee38f9788a": {
+  "found": true,
+  "malicious": 23,
+  "suspicious": 0,
+  "undetected": 36,
+  "engines": 75,
+  "first_submission": "2026-09-14",
+  "last_analysis": "2026-10-09",
+  "label": "miner.abminer/dvqe",
+  "type": "ELF",
+  "names": [
+   "5rqrp.exe",
+   "file-_home_admin_34hykujmjiz65ixl1ran7aaevh"
+  ],
+  "checked_utc": "2026-11-03 21:43"
+ },
+ "45fe78e73178aea62f9067e920af9562b6e7f1cff14d941f1b7234b1e0356c20": {
+  "found": true,
+  "malicious": 28,
+  "suspicious": 0,
+  "undetected": 36,
+  "engines": 75,
+  "first_submission": "2025-08-22",
+  "last_analysis": "2026-10-09",
+  "label": "trojan.malxmr/usblj926",
+  "type": "ELF",
+  "names": [
+   "fe1cgkw.exe",
+   "dhpcd",
+   "file-_home_peter_.dhcpd"
+  ],
+  "checked_utc": "2026-11-03 21:43"
+ },
+ "d7af85d2c8514c599a1523649f32582a50a649093f919526c507b0f92d70df54": {
+  "found": true,
+  "malicious": 16,
+  "suspicious": 0,
+  "undetected": 45,
+  "engines": 75,
+  "first_submission": "2026-10-24",
+  "last_analysis": "2026-11-01",
+  "label": "trojan.fritzfrog/abmapplication",
+  "type": "ELF",
+  "names": [
+   "d7af85d2c8514c599a1523649f32582a50a649093f919526c507b0f92d70df54.elf",
+   "c84wjjkfl.exe",
+   "fWMFrHSQ_d7af85d2c851.bin"
+  ],
+  "checked_utc": "2026-11-03 21:43"
+ },
+ "e374a7ad447d2cf791ecae122894a51ba723901ea132e7fa16cd47c44e4a1769": {
+  "found": true,
+  "malicious": 0,
+  "suspicious": 0,
+  "undetected": 64,
+  "engines": 75,
+  "first_submission": "2018-06-01",
+  "last_analysis": "2026-10-14",
+  "label": null,
+  "type": "ELF",
+  "names": [
+   "e374a7ad447d2cf791ecae122894a51ba723901ea132e7fa16cd47c44e4a1769.elf",
+   "20260302T032951Z_45.84.107.172_hw",
+   "streamlit_download (3).bin",
+   "dropper.elf",
+   "8t9ty1iupyw0779x8ft8qx1vdi"
+  ],
+  "checked_utc": "2026-11-03 21:44"
+ },
+ "2752ceb1f584c34239fb949580d933d0b2c05f1552c32f32d9563219775657fb": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:04"
+ },
+ "2a14f3c29ebe5c55bd0b73871a55fa7757e056e7fb1c87ce0f2f119aa2269915": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:04"
+ },
+ "5e7b2b48559209e42045d18ec007cc9ac1814d5592524df0d4c9ed09dfacec20": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:04"
+ },
+ "b863a896e536ae0cd3085b5baab21c573cbaa5357c7f513368b7aacf3c931151": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:05"
+ },
+ "d5e4051a640761df7c9770100861074d3fc17e20ae6a76eed474cecd9c77d096": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:05"
+ },
+ "e6985f66c3fea2e8a3859af90113eac080e1a46b4c20c17cae7aa40a0d5e74ab": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:05"
+ },
+ "f36ecf72e2ab517dcd4abc2f48cbcff7810e903ec8d8f5e060374cb147eaf387": {
+  "found": false,
+  "checked_utc": "2026-11-03 22:06"
+ }
+}

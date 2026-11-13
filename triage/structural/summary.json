@@ -1,0 +1,40 @@
+{
+ "files": 910,
+ "programs": 43,
+ "programs_with_more_than_1_copy": 19,
+ "programs_with_a_complete_copy": 4,
+ "fragments_placed_in_a_program_with_header": 2,
+ "fragments_grouped_without_header": 30,
+ "copies_vs_longest": {
+  "same": 674,
+  "longest": 43,
+  "prefix": 171,
+  "fragment": 20,
+  "check": 2
+ },
+ "kinds": {
+  "incomplete program": 865,
+  "complete program": 4,
+  "beginning missing": 32,
+  "mixed with other data": 9
+ },
+ "machines": {
+  "x86-64": 875,
+  "null": 32,
+  "x86": 3
+ },
+ "linking": {
+  "static": 877,
+  "null": 32,
+  "dynamic": 1
+ },
+ "markers": {
+  "UPX Go GCC": 205,
+  "GCC": 4,
+  "UPX Go": 348,
+  "Go": 22,
+  "UPX": 221,
+  "none": 75,
+  "UPX GCC": 35
+ }
+}

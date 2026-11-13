@@ -1,0 +1,46 @@
+{
+ "/home/controller/bpftests/log/2026-10-05/04:45/77.239.124.155/27577-sshd-51346/27585-scp/file-_var_tmp_oCcKZeOS": [
+  "e01847dc9890a009fc182abc5adb84a4257e19286842f292b8261ca28e8c0bcc",
+  4903680
+ ],
+ "/home/controller/bpftests/log/2026-10-08/11:48/77.239.124.152/18356-sshd-32424/18364-scp/file-_var_tmp_PLBlOMNw": [
+  "930187a53fa031e0a48c4905d2cdfff22908b61ffa77d9e07c0a2ec02a2995a9",
+  3697664
+ ],
+ "/home/controller/bpftests/log/2026-10-20/18:23/109.160.32.123/17907-sshd-1233/17955-scp/file-_tmp_cache": [
+  "871019b836f390d3e69a6a9d85a8b50626761f3b68ffccfbf358c0f2939dd2f7",
+  983040
+ ],
+ "/home/controller/bpftests/log/2026-10-23/01:54/109.160.32.168/34851-sshd-18655/34862-scp/file-_var_tmp_pAFvaQCj": [
+  "3ffd717df60dc0eca3be15be4a45f5ccb6152e2c438f70a355e2417942597636",
+  8926208
+ ],
+ "/home/controller/bpftests/log/2026-10-23/19:03/109.160.32.170/28166-sshd-28905/28174-scp/file-_var_tmp_SjjEaJRz": [
+  "def5d45324dc23459b3e9abe8e4fdb188f775edff2f00fc5ee1d48e8bea8660b",
+  8034048
+ ],
+ "/home/controller/bpftests/log/2026-10-24/14:02/109.160.32.47/36207-sshd-20120/36215-scp/file-_var_tmp_ohIexKlZ": [
+  "5ce035d462464b009800e921be389f563413946cb5b6e0a8ac21e1bb3787df5a",
+  5456896
+ ],
+ "/home/controller/bpftests/log/2026-10-24/14:02/109.160.32.47/36975-sshd-40609/36984-scp/file-_var_tmp_cYOTnmFN": [
+  "cf1e387fa5b750dd39be5af7d1ccbe86ff3276f64dc65ed4da7b049784397c0d",
+  4575488
+ ],
+ "/home/controller/bpftests/log/2026-10-27/07:50/109.160.32.172/35383-sshd-35508/35394-scp/file-_var_tmp_oMqIAyZI": [
+  "137a48aea2ad4098e17b2ea2832f2ec71967d7142176b23e105884b3d765f001",
+  15244032
+ ],
+ "/home/controller/bpftests/log/2026-10-27/07:50/109.160.32.172/36374-sshd-60033/36384-scp/file-_var_tmp_PUGokBTS": [
+  "6f8172c6fcbaea7aa347d2986453dc0785f751f1cd57c677aa7ac912b32d44b3",
+  5160704
+ ],
+ "/home/controller/bpftests/log/2026-10-27/07:50/109.160.32.172/36717-sshd-49823/36732-scp/file-_var_tmp_sIIgRmth": [
+  "df3c9201bda17b80a6eadd0e05990811ac6d90670b685be9e54ec62101e436c3",
+  5652736
+ ],
+ "/home/controller/bpftests/log/2026-10-29/21:24/109.160.32.135/35110-sshd-53889/35118-scp/file-_var_tmp_QrCMsVrm": [
+  "815efd66da90b8b1333aba5b137843a2b64d792b859dfedd151e81a6c1b21780",
+  7212032
+ ]
+}

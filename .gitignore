@@ -1,0 +1,17 @@
+# live malware: never commit
+samples/
+triage/strings/unpacked/
+
+# too large for GitHub / rebuilt by the scripts
+sessions.jsonl
+chains/
+finder_all.json
+
+# editor and temp files
+.~lock*
+*.part
+__pycache__/
+*.swp
+
+# report files
+*.tex
